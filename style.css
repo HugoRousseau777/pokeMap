@@ -1,0 +1,9 @@
+#game {
+    box-shadow: 10px 10px 15px black;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
